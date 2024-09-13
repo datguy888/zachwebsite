@@ -1,0 +1,15 @@
+body{
+font-color:red
+}
+a{
+color:tomato
+}
+
+.table-div {opacity: 0.5}
+
+.table-div:hover{opacity:1}
+
+.pw-form {
+color: white;
+font-weight: bold;
+}
